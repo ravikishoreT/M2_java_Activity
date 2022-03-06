@@ -1,1 +1,1 @@
-# M2_java_Activity
+# M2_java_Activities
